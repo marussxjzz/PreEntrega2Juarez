@@ -1,0 +1,56 @@
+body { background-color: black; width: 100%; height: 100%; }
+
+.bpheader {
+    display: flex;
+    justify-content: center;
+}
+
+.contentPage{
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.members {
+    display: flex;
+    justify-content: space-around;
+}
+
+.membersimg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.videos {
+    display: flex;
+    justify-content: center;
+}
+
+.texts {
+    color: white;
+    display: flex;
+}
+
+.text2 {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.backarrow {
+    position: fixed;
+    left: 0;
+}
+
+.links{
+    color: inherit;
+    text-decoration: none;
+    font-size: 40px
+}
